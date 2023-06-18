@@ -1,0 +1,14 @@
+.carousel-item img{
+    width:100%;
+    height:93vh;
+}
+
+.carousel-inner h5{
+
+    font-size: 60px;
+    background-color:color-mix(in xyz, grey 10%, black 50%)
+    
+}
+.carousel-inner p{
+    font-size: 20px;
+}
